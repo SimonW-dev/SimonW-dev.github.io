@@ -41,15 +41,15 @@ Enthält alle CSS Variabeln und grundlegende Regeln.
     /* 
     Farben
     ----------------------------------------*/
-    --color-text: #444;
+    --color-text: #333;
     --color-dark: #000;
-    --color-text-light: #999;
-    --color-accent: #9313ce;
+    --color-text-light: #f2f2f2;
+    --color-accent: #4186C7;
     --color-headlines: #000;
-    --color-backgrounds: #efefef;
+    --color-backgrounds: #fff;
     --color-borders: rgba(0, 0, 0, 0.3);
     --color-button-bg: rgba(0, 0, 0, 0.8);
-    --color-background-dark: rgba(0,0,0,0.7);
+    --color-background-dark: #083156;
 
     /* Groessen
     ----------------------------------------*/
