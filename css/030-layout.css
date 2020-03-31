@@ -56,7 +56,7 @@ Enthält alle Regeln zum Layout.
   padding: var(--l);
   border-top: solid 1px var(--color-borders);
   margin-top: var(--xl);
-  color: var(--color-text-light);
+  color: var(--color-text);
 }
 
 @media screen and (min-width:1281px) {
